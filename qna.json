@@ -1,0 +1,104 @@
+[
+{
+"query": "¿Cuánto más alta es hoy la temperatura promedio en Argentina respecto de 1940-1969?",
+"expected": "Alrededor de 1,1 °C más alta.",
+"topico": "Cambio climático",
+"fragment": "En lo que va de la década, la temperatura en Argentina fue 1,1°C mayor que en 1940-1969."
+},
+{
+"query": "¿Cuánto aumentó la temperatura global frente al período 1861-1890?",
+"expected": "Cerca de 1,5 °C.",
+"topico": "Cambio climático",
+"fragment": "La temperatura global es hoy 1,5 °C mayor a la del período 1861-1890."
+},
+{
+"query": "¿Qué sector explica la mayor parte de las emisiones globales de GEI?",
+"expected": "El de energía, con ~73% de las emisiones.",
+"topico": "Emisiones de gases de efecto invernadero",
+"fragment": "La producción, generación y consumo de energía explica el 73% de las emisiones globales."
+},
+{
+"query": "¿Qué proporción de las emisiones globales de CO₂ aportó Argentina en 2023?",
+"expected": "Aproximadamente 0,5% del total mundial.",
+"topico": "Emisiones de gases de efecto invernadero",
+"fragment": "Con el 0,5% de las emisiones globales, Argentina se ubicó en el puesto 30..."
+},
+{
+"query": "¿Qué participación tienen las energías limpias en la matriz eléctrica argentina y cómo se compara?",
+"expected": "40,5%; similar al mundo (39,3%) y muy menor a Sudamérica (76,5%).",
+"topico": "Transición energética",
+"fragment": "La participación de las energías limpias en la matriz eléctrica argentina es del 40,5%... similar a la media mundial (39,3%) y mucho menor al promedio de Sudamérica (76,5%)."
+},
+{
+"query": "¿Cuál es la principal fuente limpia en la electricidad de Argentina?",
+"expected": "La hidroelectricidad es la fuente limpia más importante.",
+"topico": "Transición energética",
+"fragment": "En Argentina, la hidroelectricidad explica el 21,6% de la energía eléctrica y es la principal fuente limpia."
+},
+{
+"query": "¿Cuántos países producen energía nuclear y Argentina está entre ellos?",
+"expected": "Son 33 países y sí, Argentina es uno de ellos.",
+"topico": "Transición energética",
+"fragment": "Sólo 33 países en el mundo producen energía nuclear y Argentina es uno de ellos."
+},
+{
+"query": "¿Cuál fue el nivel promedio del gasto público argentino entre 2014 y 2023?",
+"expected": "Alrededor del 44,6% del PIB.",
+"topico": "Gasto público",
+"fragment": "Entre 2014 y 2023, el gasto público en Argentina representó en promedio el 44,6% del Producto Interno Bruto (PIB)."
+},
+{
+"query": "¿Cómo evolucionó el PIB per cápita argentino desde 1975?",
+"expected": "Creció apenas 30% (0,6% anual), muy por debajo del mundo.",
+"topico": "Crecimiento",
+"fragment": "Entre 1975 y 2023, el PIB per cápita de Argentina creció apenas un 30%, lo que equivale a apenas un 0,6% anual."
+},
+{
+"query": "¿Cuándo fue el pico de pobreza más alto desde 2002?",
+"expected": "En 2020, durante la pandemia.",
+"topico": "Pobreza",
+"fragment": "Durante 2020, la pobreza alcanzó el nivel más alto desde 2002."
+},
+{
+"query": "¿Cómo se ubica Argentina en términos de los índices de desigualdad en la región?",
+"expected": "Sigue siendo de los países más igualitarios de América Latina.",
+"topico": "Desigualdad",
+"fragment": "Argentina continúa siendo uno de los países más igualitarios de la región."
+},
+{
+"query": "¿Cuánto tiempo total dedican al trabajo las mujeres en Argentina según la ENUT 2021?",
+"expected": "Unos 531 minutos por día (60 más que los varones).",
+"topico": "Trabajo y participación laboral",
+"fragment": "las mujeres de 14 años y más dedicaron un promedio de 531 minutos al día al trabajo."
+},
+{
+"query": "¿Qué proporción de las exportaciones argentinas son agropecuarias?",
+"expected": "Aproximadamente 64%.",
+"topico": "Comercio exterior",
+"fragment": "se obtiene que un 64% de las exportaciones son productos agropecuarios."
+},
+{
+"query": "¿Qué lugar ocupan hoy el oro, la plata y el litio en las exportaciones mineras?",
+"expected": "Son los principales minerales exportados actualmente.",
+"topico": "Minería",
+"fragment": "Los principales minerales que exporta Argentina en la actualidad son oro, plata y litio."
+},
+{
+"query": "¿Desde cuándo la minería es superavitaria en la balanza comercial de minerales?",
+"expected": "Desde 1998.",
+"topico": "Minería",
+"fragment": "Desde 1998, Argentina ha sido sistemáticamente superavitaria en minerales."
+},
+{
+"query": "¿Qué participación tuvo Argentina en el PIB mundial en 2022?",
+"expected": "Cerca de 0,7% del PIB global.",
+"topico": "Crecimiento",
+"fragment": "Para 2022, Argentina representaba el 0,7% del PIB global"
+},
+{
+"query": "¿Superará Argentina los 50 millones de habitantes según las proyecciones?",
+"expected": "Es probable que no; tendería a estabilizarse por debajo.",
+"topico": "Demografía",
+"fragment": "es probable que la población de Argentina nunca llegue a superar los 50 millones de habitantes."
+}
+]
